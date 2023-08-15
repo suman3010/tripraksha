@@ -1889,8 +1889,15 @@ input[type=submit]:focus {
   -ms-transition: background-color 0.5s linear;
   -o-transition: background-color 0.5s linear;
   transition: background-color 0.5s linear;
+  height: 100px;
+}
+.white-logo {
+  height: 124px;
 }
 
+.black-logo {
+  height: 124px;
+}
 @media screen and (min-width: 992px) {
   .fixed-header .bottom-header {
     background-color: #ffffff;
